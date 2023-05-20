@@ -46,15 +46,30 @@ background-repeat: no-repeat;
   margin: 16px;
 }
 .home-content p {
-  font-size: 18px;
+  font-size: 25px;
   align-items: center;
 }
 .form-control{
 background-color:rgba(128, 128, 128, 0.52);
 
 }
-.input-group button{
+#basic-addon2{
   background-color: #e51904;
+  margin-left: 10px;
   
   
+}
+.mobile{
+  font-size: 25px;
+}
+.six-section{
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+.btn btn-dark{
+  text-align: center;
+  align-items: center;
+  margin-left: 200px;
+
 }
